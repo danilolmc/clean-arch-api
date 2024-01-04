@@ -22,7 +22,7 @@ This API also was built for a micro-frontend client application, which runs abov
  
 ## Running the project
 
-First of all, clone this repository and go to the project's directory.
+First of all, make sure you have hit installed, clone this repository and go to the project's directory.
 
 After, running the app it's quite simple, just follow the steps below:
 
@@ -40,3 +40,15 @@ After, running the app it's quite simple, just follow the steps below:
 2 - Build the project by running `npm run build`;
 3 - Install project dependencies by running `npm install`;
 4 - Access the API documentation in `http://localhost:3333/api-docs`, have fun!
+
+
+### Requirements for running this project
+
+- [Git](https://git-scm.com/)
+- [NodeJS](https://nodejs.org/)
+- [Docker](https://www.docker.com/)
+- [Docker Compose](https://www.docker.com/)
+
+<hr>
+
+Made with ❤️ by Danilo
