@@ -28,18 +28,18 @@ After, running the app it's quite simple, just follow the steps below:
 
 #### Running with Docker
 
-1 - First, make sure your environment has Docker and Docker Compose available;
-2 - Build the project by running `npm run build`;
-4 - Run `docker-compose up --build` for creating the image and run the container;
-6 - Access the API documentation at `http://localhost:3333/api-docs`, have fun!
+1. First, make sure your environment has Docker and Docker Compose available;
+2. Build the project by running `npm run build`;
+3. Run `docker-compose up --build` for creating the image and run the container;
+4. Access the API documentation at `http://localhost:3333/api-docs`, have fun!
 
 
 #### Running without Docker
 
-1 - First, make sure your environment has NodeJS installed;
-2 - Build the project by running `npm run build`;
-3 - Install project dependencies by running `npm install`;
-4 - Access the API documentation in `http://localhost:3333/api-docs`, have fun!
+1. First, make sure your environment has NodeJS installed;
+2. Build the project by running `npm run build`;
+3. Install project dependencies by running `npm install`;
+4. Access the API documentation in `http://localhost:3333/api-docs`, have fun!
 
 
 ### Requirements for running this project
